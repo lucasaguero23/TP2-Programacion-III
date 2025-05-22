@@ -1,2 +1,3 @@
 Tercer archivo en busca de conflicto
 Tercer archivo con conflicto
+Tercer archivo extra en busca de conflicto
