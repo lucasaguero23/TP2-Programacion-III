@@ -1,0 +1,25 @@
+:root {
+  padding: 2%;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(92, 44, 44);
+  margin: 5px;
+}
+
+#validaciones {
+  border: 5px;
+  border-style: dotted;
+  border-color: red;
+  background-color: white;
+  border-radius: 20px;
+  margin: 5px;
+  padding: 2%;
+}
+#contenedor {
+  border: 5px;
+  border-style: dotted;
+  border-color: red;
+  background-color: white;
+  border-radius: 20px;
+  margin: 5px;
+  padding: 2%;
+}
