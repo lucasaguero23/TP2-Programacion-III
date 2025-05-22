@@ -1,1 +1,2 @@
 Segundo archivo con conflicto
+Segundo archivo extra en busca de conflicto (2)
