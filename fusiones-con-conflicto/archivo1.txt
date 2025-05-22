@@ -1,1 +1,2 @@
 Primer archivo en busca de conflicto
+Primer archivo extra en busca de conflicto (2)
